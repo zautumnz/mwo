@@ -3,9 +3,7 @@
   "description": "Advanced which.",
   "version": "2.0.9",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -13,12 +11,12 @@
   "scripts": {
     "test": "echo no"
   },
-  "homepage": "https://github.com/zacanger/mwo#readme",
+  "homepage": "https://github.com/zautumnz/mwo#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/mwo.git"
+    "url": "https://github.com/zautumnz/mwo.git"
   },
-  "bugs": "https://github.com/zacanger/mwo/issues",
+  "bugs": "https://github.com/zautumnz/mwo/issues",
   "keywords": [
     "directory",
     "file",
